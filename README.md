@@ -1,20 +1,44 @@
 # OneBoard — Feedback & Support
 
-Report bugs and request features for **OneBoard** — the cross-project Kanban board for Jira.
+**OneBoard** is a cross-project Kanban board for Jira Cloud. See and manage issues from multiple projects in one unified view.
+
+---
 
 ## 🐛 Report a Bug
 
-[Click here to report a bug](../../issues/new?labels=bug&title=[Bug]+)
+Found something that doesn't work correctly?
+
+1. Go to [Issues](https://github.com/oneboard-app/oneboard-jira/issues)
+2. Click **New issue**
+3. Select **Bug Report**
+4. Fill in the details and submit
 
 ## 💡 Request a Feature
 
-[Click here to request a feature](../../issues/new?labels=enhancement&title=[Feature]+)
+Have an idea for improving OneBoard?
+
+1. Go to [Issues](https://github.com/oneboard-app/oneboard-jira/issues)
+2. Click **New issue**
+3. Select **Feature Request**
+4. Describe what you'd like to see
 
 ## 📧 Direct Support
 
-For urgent or private inquiries: **support@oneboard-app.com**
+For urgent or private inquiries:
+
+**oneboardsupport@gmail.com**
+
+We aim to respond within 24 hours on business days.
+
+---
 
 ## 🔗 Links
 
-- 📖 [Documentation](https://oneboard-app.notion.site)
+- 📖 [Documentation](https://oneboard-docs.notion.site/OneBoard-Documentation-372480227dbc8094bdd0e6f7a91cea10)
 - 🛒 [Atlassian Marketplace](https://marketplace.atlassian.com)
+
+---
+
+## About OneBoard
+
+OneBoard lets Jira teams create a single Kanban board that shows issues from multiple projects. Map statuses from different workflows to shared columns, drag and drop to transition issues, and filter across your entire workload — all without leaving one screen.
