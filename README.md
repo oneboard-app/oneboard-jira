@@ -26,7 +26,7 @@ Have an idea for improving OneBoard?
 
 For urgent or private inquiries:
 
-**oneboardsupport@gmail.com**
+**support@omnisolve.io**
 
 We aim to respond within 24 hours on business days.
 
