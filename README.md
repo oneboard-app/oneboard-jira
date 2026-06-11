@@ -35,7 +35,7 @@ We aim to respond within 24 hours on business days.
 ## 🔗 Links
 
 - 📖 [Documentation](https://oneboard-docs.notion.site/OneBoard-Documentation-372480227dbc8094bdd0e6f7a91cea10)
-- 🛒 [Atlassian Marketplace](https://marketplace.atlassian.com)
+- 🛒 [Atlassian Marketplace](https://marketplace.atlassian.com/apps/1113497994)
 
 ---
 
